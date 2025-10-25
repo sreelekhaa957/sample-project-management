@@ -9,4 +9,4 @@ g = "F" if p < 60 else ("D" if p < 70 else ("C" if p < 80 else ("B" if p < 90 el
 print(f"Total: {s:.2f}/{n*100:.2f}")
 print(f"Percent: {p:.2f}%")
 print(f"Grade: {g}")
-# end
+# end 
