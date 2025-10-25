@@ -6,4 +6,4 @@ sreelekha c
 ##FEATURES
 -accepts marks for multiple subjects 
 -calculates average and grade
--display result summary
+-display result summary 
